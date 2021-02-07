@@ -1,0 +1,40 @@
+{'Number of unique properties per  page ': 40, 'Number of properties per page ': 40, 'Number of properties per type of the ad   ': For sale             38
+For sale by owner     2
+Name: ad_type, dtype: int64, 'Number of properties per company/broker  ': Joelle Pergolotti                       3
+Property Owner                          2
+Noha Elashram                           1
+Eva Penson                              1
+Josh Rubin                              1
+Harjot Kaur Nayar                       1
+William Falu                            1
+Hermi Aquino                            1
+Kristy Salama                           1
+Richard J Steinberg                     1
+Nicholas Venturini                      1
+Michael S. Rastegar                     1
+Ryan Stenta at Eklund|Gomes Team        1
+Karen Cantor                            1
+Alan Klein                              1
+Craig Dix                               1
+Ayleen Aybar                            1
+Michel Ohana                            1
+joshua harris                           1
+Elayne Reimer                           1
+Phyllis Pei                             1
+Carter McHyman                          1
+Chris Connor                            1
+Amy Williamson                          1
+Tali Geva                               1
+Kim Mc Keller                           1
+Nigel Pearce                            1
+Louis Belisario                         1
+Gregory Diaz                            1
+Leora Blumberg-Rubinstein               1
+Jonathan Tauzowicz                      1
+Keystone Realty Of Greater New York     1
+Dan Sholomon                            1
+Kristina Gershteyn                      1
+Carrie Chiang                           1
+Paula Del Nunzio                        1
+Vanessa Villanueva                      1
+Name: agent, dtype: int64, 'Average price (in total)$: ': 11362419.85, 'Average price per sq.ft$: ': 1418.6887}

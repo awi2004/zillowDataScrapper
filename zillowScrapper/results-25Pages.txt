@@ -1,0 +1,20 @@
+{'Number of unique properties per  page ': 40, 'Number of properties per page ': 800, 'Number of properties per type of the ad   ': For sale             956
+For sale by owner     31
+New construction       7
+Foreclosure            2
+Contingent             1
+Pending                1
+Lot/land               1
+Auction                1
+Name: ad_type, dtype: int64, 'Number of properties per company/broker  ': Property Owner                          31
+Joelle Pergolotti                       24
+Elayne Reimer                           15
+Eric Lee                                13
+Keystone Realty Of Greater New York     10
+                                        ..
+Nicholas Isra                            1
+Deedee Weiss                             1
+Dave Constantino                         1
+Deanna Kory                              1
+Judith McKenna                           1
+Name: agent, Length: 650, dtype: int64, 'Average price (in total)$: ': 5535262.854, 'Average price per sq.ft$: ': 1127.9802}
