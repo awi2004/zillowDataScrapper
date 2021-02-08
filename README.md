@@ -32,11 +32,11 @@ zillowScraper: It scrapes the data from zillow website and does the following:
 zillowScrapper has below Python files:
 
     1. zillow_parser.py: it contains all the logic for scraper.
-    2. main.py: it has a main method to run the methods of
-    zillow_parser.
+    2. main.py: it has a main method to run the methods of zillow_parser.
     3. config.py: it contains below user defined variables
             chromdriver_path : path to chromedriver
-            url: link of zillow website to scrape data for ex Neyowrk listings  https://www.zillow.com/new-york-ny/  
+            url: link of zillow website to scrape data for ex Neyowrk listings  https://www.zillow.com/new-york-ny/ 
+            pages: number of pages for the listings.
 
 Steps to run zillowScrapper:
 
