@@ -9,22 +9,23 @@ zillowScraper: It scrapes the data from zillow website and does the following:
 3. Collect all the data points from the listing:
 
 
-    a. Link
-    b. How many days on Zillow and views
-    c. Price of the listing : for ex $399.000
-    d. How many bedrooms
-    e. How many bathrooms
-    f. Size of apartmemt in Square meters/feets
-    g. Type of the ad
-    h. Address and city of the apartment
-    i. Company/Broker
+
+        a. Link
+        b. How many days on Zillow and views
+        c. Price of the listing : for ex $399.000
+        d. How many bedrooms
+        e. How many bathrooms
+        f. Size of apartmemt in Square meters/feets
+        g. Type of the ad
+        h. Address and city of the apartment
+        i. Company/Broker
 4. Show stats on the collected data:
 
 
-    a. How many properties
-    b. Average price (in total) and per sq.ft.
-    c. Number of properties per type of the ad
-    d. Number of properties per company/brok
+        a. How many properties
+        b. Average price (in total) and per sq.ft.
+        c. Number of properties per type of the ad
+        d. Number of properties per company/brok
     
     
     
